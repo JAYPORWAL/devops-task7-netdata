@@ -14,7 +14,7 @@ Install Netdata using Docker and visualize system metrics.
 4. Captured a screenshot of CPU, memory, and other metrics.
 
 ## 📸 Screenshot!
-![image alt] (https://github.com/JAYPORWAL/devops-task7-netdata/blob/01e0aecbf316e5f02f3651fd2d697282344d98bc/Screenshot%202025-06-05%20150511.png)
+![image alt](https://github.com/JAYPORWAL/devops-task7-netdata/blob/01e0aecbf316e5f02f3651fd2d697282344d98bc/Screenshot%202025-06-05%20150511.png)
 
 ## 🧠 Learning Outcome
 - Understood how to monitor resources in real-time
